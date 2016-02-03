@@ -1,0 +1,11 @@
+img{
+	border:2px solid gray 
+}
+.container{
+ display: inline-block;
+ margin: 20px;
+}
+.container2{
+	display: inline-block;
+	margin: 30px;
+}
